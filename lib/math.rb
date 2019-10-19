@@ -27,7 +27,9 @@ num2 = 10
 end
 
 def modulo(num1, num2)
-
+num1 = 20
+num2 = 8
+  expect(modulo(20,8)).to eq 
 end
 
 def square_root(num)
